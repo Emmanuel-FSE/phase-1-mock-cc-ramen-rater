@@ -39,6 +39,22 @@
       "image": "./assets/ramen/kojiro.jpg",
       "rating": 6,
       "comment": "Perfect for a cold night."
+    },
+    {
+      "name": "Chapo",
+      "restaurant": "kibandaski",
+      "image": "https://thumbs.dreamstime.com/b/chapati-homemade-stack-indian-bread-plate-39007461.jpg",
+      "rating": "10",
+      "comment": "Best there is.",
+      "id": 6
+    },
+    {
+      "name": "Ugali",
+      "restaurant": "Chiapas",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Ugali_%26_Sukuma_Wiki.jpg",
+      "rating": "9",
+      "comment": "Kila siku buana!!",
+      "id": 7
     }
   ]
 }
